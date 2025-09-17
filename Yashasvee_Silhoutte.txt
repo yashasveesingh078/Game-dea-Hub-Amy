@@ -1,0 +1,29 @@
+# Game Title
+Silhoutte art
+
+## Concept
+Basically its a game where you paint your ideas freely on a canvas.You can either paint the given
+art pieces and learn from them or you can paint your own ideas and save the work
+
+## Gameplay
+You have to choose size of the canvas and paint type you can choose the shades of colour freely or you can
+even mix colours to form a new colour and you can sell your art work to earn coins and you can unlock
+different features using these coins
+
+## Unique Features
+you can choose the particular type and shade fo colour you can even use cutouts for the art piece
+
+## Target Audience
+people who love painting but do not get proper platform to use different shades of colour and
+paint freely
+
+## Art Style & Theme
+very colourful and background can be like artworks are placed in an art gallery and people are appreciating
+it
+
+## Inspiration
+i came across a similar game but it lacked the using different colour it allowed only particular colours or
+cutouts which were already stored in game or the limited art pieces which were stored in the game
+
+## Tools or Platforms (Optional)
+this should be accessible everywhere painting tools can be added
